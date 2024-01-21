@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24fbda77-ff09-423b-91af-d531474a5e10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/driver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/driver/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/driver/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/driver/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-17.0.9-jbrsdk-17.0.9-f644763e9732-d3ceb957" />
         <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
         <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
       </set>
